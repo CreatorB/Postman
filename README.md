@@ -13,7 +13,7 @@ You can read more on their official [docs](https://www.getpostman.com/docs/).
 
 ### Basic Installation
 
-Postman also available on mac, windows and linux. You can grab the bundle on [getpostman](https://www.getpostman.com/apps), but if you are `linux`us`er` just go to terminal and drive it! :
+Postman also available on mac, windows and linux. You can grab the bundle on [getpostman](https://www.getpostman.com/apps), but if you are `linux`us`er` just go to terminal and drive it! This is not apt-get install postman but an apt-get-install-postman.sh :smiling_imp:
 
 #### via curl
 
