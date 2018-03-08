@@ -15,7 +15,7 @@ You can read more on their official [docs](https://www.getpostman.com/docs/).
 
 Postman also available on mac, windows and linux. You can grab the bundle on [getpostman](https://www.getpostman.com/apps), but if you are `linux`us`er` just go to terminal and drive it! This is not apt-get install postman but an apt-get-install-postman.sh :smiling_imp:
 
-#### via curl
+#### via wget
 
 ```shell
 bash <(wget -O - https://raw.githubusercontent.com/CreatorB/Postman/master/apt-get-install-postman.sh)
@@ -26,3 +26,7 @@ bash <(wget -O - https://raw.githubusercontent.com/CreatorB/Postman/master/apt-g
 ![alt texti](https://raw.githubusercontent.com/CreatorB/Postman/master/creatorbe-postman.png)
 
 Postman recommends installing its native app, but there wasn’t any documentation for installing it on Ubuntu until this repo created. So, in order to make it easier for fellow Ubuntu/Linux users to start with Postman, this is! :sunglasses:
+
+## Links
+
+Blog post (ID version) : [https://creatorbe.github.io/programming/2018/03/08/cara-install-postman-di-ubuntu-apt-get-install-postman-creatorb.html](https://creatorbe.github.io/programming/2018/03/08/cara-install-postman-di-ubuntu-apt-get-install-postman-creatorb.html)
