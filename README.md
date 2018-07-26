@@ -25,7 +25,7 @@ bash <(wget -O - https://raw.githubusercontent.com/CreatorB/Postman/master/apt-g
 
 ![alt texti](https://raw.githubusercontent.com/CreatorB/Postman/master/creatorbe-postman.png)
 
-Postman recommends installing its native app, but there wasn’t any documentation for installing it on Ubuntu until this repo created. So, in order to make it easier for fellow Ubuntu/Linux users to start with Postman, this is! :sunglasses:
+Postman recommends installing its native app, then this is! :sunglasses:
 
 ## Links
 
