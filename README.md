@@ -25,7 +25,7 @@ bash <(wget -O - https://raw.githubusercontent.com/CreatorB/Postman/master/apt-g
 
 ![alt texti](https://raw.githubusercontent.com/CreatorB/Postman/master/creatorbe-postman.png)
 
-Postman recommends installing its native app, then this is! :sunglasses:
+Postman recommends install their native apps, then this is! :sunglasses:
 
 ## Links
 
