@@ -26,7 +26,7 @@ cat > ~/.local/share/applications/postman.desktop <<EOL
 Encoding=UTF-8
 Name=Postman
 Exec=postman
-Icon=/opt/Postman/resources/app/assets/icon.png
+Icon=/opt/Postman/app/resources/app/assets/icon.png
 Terminal=false
 Type=Application
 Categories=Development;
